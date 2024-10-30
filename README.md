@@ -26,7 +26,7 @@ This project uses the following libraries:
 - `numpy`
 - `matplotlib`
 
-Please refer to the individual notebooks for more specific dependencies and instructions. For a more in-depth explaination refer to the report.
+Please refer to the individual notebooks for more specific dependencies and instructions. For a more in-depth explaination refer to the [report](https://github.com/FedjaMocnik/Generating-Highdimensional-Data-using-Flow-Models/blob/main/Generating-highdim-data-using-flow.pdf).
 
 ## Conclusion
 While the Bayesian models are still in progress, the regular RealNVP implementation has proven effective in generating 12D data, achieving a KDE overlap of around 40%. Contributions and suggestions for improving the Bayesian SVI model are welcome.
